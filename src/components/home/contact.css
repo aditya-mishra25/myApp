@@ -1,0 +1,45 @@
+.b1{
+    background-repeat: no-repeat;
+    color: black;
+    background-color:#F5D37A;
+    display:flex;
+    flex-direction: column;
+}
+
+.b2{
+    margin-top: 50px;
+    height:auto;
+    display:flex;
+    flex-direction: row;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+}
+.b21{
+    flex:1;
+    text-align: left;
+}
+.b22{
+    margin-left: 100px;
+    flex:1;
+    box-shadow:0px 0px 10px 0px #ccc;
+    padding: 50px;
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:#FFFF00;
+    height: 1px;
+  }
+
+  .b3{
+      background-color: #1C2133;
+      color: white;
+
+  }
+  .f1{
+      display: flex;
+  }
