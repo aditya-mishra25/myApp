@@ -22,7 +22,7 @@ const Example = (props) => {
   return (
     <div>
       <Navbar color="light" light expand="md">
-        <NavbarBrand href="/" style={{textSizeAdjust:100}}>Edunomics</NavbarBrand>
+        <NavbarBrand href="/" style={{textSizeAdjust:100}}>Honest Designs</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
